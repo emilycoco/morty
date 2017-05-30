@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+.DS_Store
+.idea
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+/node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+.DS_Store
+.idea
+
+# phpstorm
+/.idea/
+
+#generated config
+link.json
+
+# secure constants
+#constants.js
+
+# build
+client/dist
+
+#secret
+client_secret.json
